@@ -1,0 +1,66 @@
+{
+  "gender": [
+    {
+      "id": 1,
+      "parentId": 1,
+      "name": "male",
+      "img": "./Icons/woman.png"
+    },
+    {
+      "id": 2,
+      "parentId": 2,
+      "name": "female",
+      "img": "./Icons/man.png"
+    }
+  ],
+  "models": [
+    {
+      "id": 1,
+      "parentId": 1,
+      "name": "Кольцо",
+      "img": "./assets/woman_ring.jpg"
+    },
+    {
+      "id": 2,
+      "parentId": 2,
+      "name": "Часы",
+      "img": "./assets/man_watch.png"
+    },
+    {
+      "id": 3,
+      "parentId": 1,
+      "name": "Серьги",
+      "img": "./assets/woman_earrings.jpg"
+    },
+    {
+      "id": 4,
+      "parentId": 2,
+      "name": "Цепь",
+      "img": "./assets/man_chain.png"
+    },
+    {
+      "id": 5,
+      "parentId": 1,
+      "name": "Брошь",
+      "img": "./assets/woman_brooch.jpg"
+    },
+    {
+      "id": 6,
+      "parentId": 2,
+      "name": "Кольцо",
+      "img": "./assets/man_ring.png"
+    },
+    {
+      "id": 7,
+      "parentId": 1,
+      "name": "Браслеты",
+      "img": "./assets/woman_bracelets.webp"
+    },
+    {
+      "id": 8,
+      "parentId": 2,
+      "name": "Кулон",
+      "img": "./assets/man_perdent.jpg"
+    }
+  ]
+}
